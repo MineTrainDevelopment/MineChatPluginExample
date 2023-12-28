@@ -1,0 +1,4 @@
+name: Example plugin
+author: MineTrain
+version: "1.0"
+main: main.ExamplePlugin #NOTE: This needs to be the path and name to your class that implements MinePlugin. -> your.path.CLASS_NAME
